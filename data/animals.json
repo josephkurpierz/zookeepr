@@ -137,6 +137,15 @@
         "loving"
       ],
       "id": "13"
+    },
+    {
+      "name": "Thor",
+      "species": "Pupper",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "14"
     }
   ]
 }
