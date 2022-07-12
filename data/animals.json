@@ -126,6 +126,17 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Tuba",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
