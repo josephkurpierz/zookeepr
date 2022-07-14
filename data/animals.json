@@ -146,6 +146,15 @@
         "loving"
       ],
       "id": "14"
+    },
+    {
+      "name": "jo",
+      "species": "beagle",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "15"
     }
   ]
 }
